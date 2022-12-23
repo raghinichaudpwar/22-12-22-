@@ -19,7 +19,7 @@ public class AuthorTest {
 		     System.out.println("Displaying a2 objects details using getters : ");
 			 System.out.println(a2.getFirstName());
 			 System.out.println(a2.getLastName());
-			// System.out.println(a3);
+			
 			 System.out.println("\nDisplaying the values of first object using getters : ");
 			 System.out.println(a1.getFirstName());
 			 System.out.println(a1.getLastName());
